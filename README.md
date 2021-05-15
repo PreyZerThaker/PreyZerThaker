@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/81478765/116978556-c510b380-acbb-11eb-8cec-75e0e7bc2ac4.png)
 
 <h1>Hello fellow humans!👋</h1>
-My name is PreyZer Thaker and I am an 11 year old C# Developer. I'm from the UK, currently in middle school/Secondary School. I love writing books and I am doing a web development bootcamp. I love Unity, WinForms, ASP.NET, Javascript and Node.js.
+My name is PreyZer Thaker and I am an 12 year old C# Developer. I'm from the UK, currently in middle school/Secondary School. I love writing books and I am doing a web development bootcamp. I love Unity, WinForms, ASP.NET, Javascript and Node.js.
 <h2>Writing✍ and Reading📖</h2>
 Apart from my Programming addiction, I also love writing books and reading books. My favourite book currently is Northern Lights by Phillip Pullman and Mistborn/The StormLight Archive by Brandon Sanderson. I am also working on a book, called Lloyd Flysenhower.
 <h2>Technologies and Software I use 🔧</h2> 
