@@ -25,6 +25,7 @@ Apart from my Programming addiction, I also love writing books and reading books
 </div>
 <h2>GitHub Stats 📈</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=PreyZerThaker&show_icons=true&count_private=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreyZerThaker&theme=radical">
 <h2>Socials/Where You Can Find Me :)</h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" height=50px width=50px> <a href=https://stackoverflow.com/users/15539708/preyansh0605>Stack Overflow</a>
 
