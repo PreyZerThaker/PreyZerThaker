@@ -6,21 +6,6 @@ My name is PreyZer Thaker and I am an 12 year old C# Developer. I'm from the UK,
 <h2>Writing✍ and Reading📖</h2>
 Apart from my Programming addiction, I also love writing books and reading books. My favourite book currently is Northern Lights by Phillip Pullman and Mistborn/The StormLight Archive by Brandon Sanderson. I am also working on a book, called Lloyd Flysenhower.
 <h2>Technologies and Software I use 🔧</h2> 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript)
-![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logoColor=white&logo=deno)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logoColor=black&logo=react)
-![Node](https://img.shields.io/badge/-Node-339933?style=for-the-badge&logoColor=white&logo=node.js)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logoColor=white&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logoColor=white&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logoColor=white&logo=sass)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logoColor=white&logo=c%2B%2B)
-![Rust](https://img.shields.io/badge/-Rust-221E1F?style=for-the-badge&logoColor=white&logo=rust)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logoColor=white&logo=nginx)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logoColor=white&logo=mongodb)
-![Linux Servers](https://img.shields.io/badge/-Linux%20Servers-FCC624?style=for-the-badge&logoColor=black&logo=linux)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=visual-studio-code)
-![Edge](https://img.shields.io/badge/-Edge-0078D7?style=for-the-badge&logoColor=white&logo=microsoft-edge)
 <div class="skill-wrapper" style="
     width: 100%;
     display: grid;
