@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/81478765/116978556-c510b380-acbb-11eb-8cec-75e0e7bc2ac4.png)
 
 <h1>Hello!👋</h1>
-My name is Preyansh Thaker and I am an 16 year old aspiring tech entrepreneur. I'm from the UK, just finished my GCSE exams. I like data, scrappy prototypes, climate tech. I love python and love developing but I prefer building fast, if that means using scrappy prototypes written with AI and me debugging with a cup of coffee late at night at first, so be it. I just love to ship.
+My name is Preyansh Thaker and I am an 16 year old aspiring tech entrepreneur. I'm from the UK, just finished my GCSE exams. I like data, scrappy prototypes, health and climate tech. I love python and love developing but I prefer building fast, if that means using scrappy prototypes written with AI and me debugging with a cup of coffee late at night at first, so be it. I just love to ship.
 <h2>Hobbies</h2>
 Apart from my entrepreneurial aspirations, I like reading books (favourite is probably a Kafka book), in terms of a career I'd like to go into Medicine, I like history and 
 <h2>Technologies and Software I use 🔧</h2> 
